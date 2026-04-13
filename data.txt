@@ -1,0 +1,2 @@
+EMPLOYEE;1;Almira;IT;Intern;almira@gmail.com
+TECHNICAL;101;Java;8;Backend 
