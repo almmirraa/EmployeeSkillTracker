@@ -143,6 +143,8 @@ https://github.com/almmirraa/EmployeeSkillTracker
 ---
 
 ## Presentation Content
-(To be added: slides)
-
+(To be added: slides, screenshots)
+https://canva.link/02inxln0pc2qmpm 
+https://drive.google.com/drive/folders/1Bx9vehz0DBEEA2Dk_Quw5swq02chA2K0
+ 
 
